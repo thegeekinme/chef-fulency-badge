@@ -1,5 +1,5 @@
 name 'apache'
-maintainer 'Jim Waldron'
+maintainer 'Jim'
 maintainer_email 'jim.waldron@ihsmarkit.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
